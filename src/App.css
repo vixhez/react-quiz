@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.quiz-numbers {
+  color: fuchsia;
+  background-color: teal;
+  font-size: 20px;
+  text-align: center;
+}
